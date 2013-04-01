@@ -8,6 +8,6 @@ Biostatistical Methods Educational Research
 
 Biostatistics Epidemiology and Research Design CTSA Consortium
 --------------------------------------------------------------
- Measurement
- Study Design
- Data Analysis
+ * Measurement
+ * Study Design
+ * Data Analysis

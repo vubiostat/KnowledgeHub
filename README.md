@@ -1,6 +1,6 @@
 Biostatistics Knowledge Hub
 ============
 
-A document-oriented collection of Biostatistics knowlege.
+## A document-oriented collection of Biostatistics knowlege.
 
-# [Click Here](wiki)
+# [Click Here](https://github.com/vubiostat/KnowledgeHub/wiki)
